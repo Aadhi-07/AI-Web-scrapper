@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 4. **Set your API key in `.env`**
 ```
-OPENAI_API_KEY=your_openai_api_key
+TOGETHER_API_KEY=your_together_api_key
 ```
 
 ---
