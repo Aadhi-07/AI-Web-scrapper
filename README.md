@@ -12,7 +12,7 @@
 A powerful, AI-enhanced web scraping tool built using **LangChain**, **Selenium**, **BeautifulSoup**, and **Streamlit**. This tool extracts data from websites, summarizes content using an LLM, and presents the output in a user-friendly Streamlit interface. 
 
 ---
-hg
+
 ## Features
 
 - • Scrape and parse website content using **Selenium** & **BeautifulSoup**
