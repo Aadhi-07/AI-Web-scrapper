@@ -5,7 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/streamlit-%230E1117.svg?style=for-the-badge&logo=streamlit)
 ![License](https://img.shields.io/github/license/Aadhi-07/AI-Web-scrapper)
 ![Last Commit](https://img.shields.io/github/last-commit/Aadhi-07/AI-Web-scrapper)
-woo
+
 
 # AI Web Scraper
 
